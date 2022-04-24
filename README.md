@@ -1,6 +1,7 @@
 # BaconStegoSMS
 
 Deskripsi   : Aplikasi Java Mobile (J2ME) Steganografi SMS Menggunakan Algoritma Bacon Cipher
+
 Developer : Ronal Damanik (Ilmu Komputer Universitas Lampung)
 
 Fitur:
