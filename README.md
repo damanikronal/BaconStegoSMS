@@ -5,7 +5,7 @@ Developer : Ronal Damanik (Ilmu Komputer Universitas Lampung)
 
 Fitur:
 - Steganografi teks (Huruf Alfabet a-z) secara keseluruhan dengan algoritma bacon cipher
----Telah diuji pada ponsel java---
+- Telah diuji pada ponsel java
 
 Dibuat sebagai program penunjang Tugas Akhir Rekayasa Perangkat Lunak - Ilmu Komputer Universitas Lampung :
 
